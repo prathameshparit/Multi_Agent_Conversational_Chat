@@ -1,12 +1,12 @@
-# LearnTube by CareerNinja - Machine Learning Task
+# Replication of Typeform-like Chat Feature with Multiple Chat Agents for Data Gathering and Extraction
 
 ![image](https://github.com/prathameshparit/LearnTube_ML_Task/assets/63944541/b2edb047-76aa-44e2-9112-525488a37e55)
 
-## Assignment: Replicate Typeform-like Chat Feature with Multiple Chat Agents for Data Gathering and Extraction
+
 
 ### Objective
 
-This machine learning task is assigned by LearnTube, a platform by CareerNinja, to replicate a Typeform-like chat feature using machine learning techniques. The goal is to create an engaging and persuasive conversational experience for users to willingly share their personal details. Users may not answer correctly, may ask questions, or refuse to provide information until convinced about the reason. The chat agents take on the role of friendly persuaders, seeking to validate and gather information in a natural conversation. The gathered data is then extracted, verified, and saved into a CSV file.
+Replication of Typeform-like chat feature using machine learning techniques. The goal is to create an engaging and persuasive conversational experience for users to willingly share their personal details. Users may not answer correctly, may ask questions, or refuse to provide information until convinced about the reason. The chat agents take on the role of friendly persuaders, seeking to validate and gather information in a natural conversation. The gathered data is then extracted, verified, and saved into a CSV file.
 
 ### Project Structure
 
@@ -62,4 +62,4 @@ If you want to extend the project to include REST API endpoints, follow these st
 
 ### Conclusion
 
-This machine learning task assigned by LearnTube by CareerNinja replicates a Typeform-like chat feature using machine learning techniques to collect user information in an engaging and persuasive manner. The gathered data is extracted, verified, and stored in a CSV file. You can choose to replicate and run the project using the provided GitHub repository or Colab file, and optionally extend it to include REST API endpoints for integration into messaging systems.
+Replication of Typeform-like chat feature using machine learning techniques to collect user information in an engaging and persuasive manner. The gathered data is extracted, verified, and stored in a CSV file. You can choose to replicate and run the project using the provided GitHub repository or Colab file, and optionally extend it to include REST API endpoints for integration into messaging systems.
